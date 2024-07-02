@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.ant-table-thead .ant-table-cell {
+    background-color: #eeeeee !important;
+    color: #344c64 !important;
+}
+.ant-table-thead {
+    border-radius: 25px !important;
+}
+
+.ant-table {
+    border: 1px solid #eeeeee;
+}
+
+.ant-form-item-label {
+    font-weight: bold;
+}
