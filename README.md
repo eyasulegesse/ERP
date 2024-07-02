@@ -97,7 +97,4 @@ This project is a web application built with Laravel for the backend and React f
 
 3. Open your browser and navigate to `http://localhost:3000` for the React frontend. The Laravel API will be accessible at `http://localhost:8000`.
 
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
 
